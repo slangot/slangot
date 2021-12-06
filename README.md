@@ -1,6 +1,8 @@
-<h3 align="center">Développeur Full-stack et Mobile en reconversion</h3>
+<h3 align="center">Développeur Full-Stack et Mobile en reconversion</h3>
 
 - 🔭 Actuellement en stage de développeur mobile Flutter **chez IchtusIT**
+
+- 👨‍💻 Diplômé de la formation de développeur Full-Stack avec la Wild Code School.
 
 - 📫 Me contacter : **langot.sylvain.contact@gmail.com**
 
