@@ -10,6 +10,23 @@
 
 - ⚡ Seul on va plus vite. Ensemble on va plus loin. **Et si nous allions plus vite et plus loin ensemble ?**
 
+
+<h3 align="left">Mes projets en ligne</h3>
+
+-  🥄 Restodyssey : (Premier projet de ma formation de la Wild Code School en Vanilla JavaScript, HTML/CSS) -> https://inspiring-ride-1109bf.netlify.app/
+
+-  🎬 Cinéflix : (Second projet de ma formation de la Wild Code School en React, HTML/CSS) -> https://cineflix-wcs-p2.netlify.app/
+
+-  🎨 Color Picker : (Side project de color picker en Vanilla JavaScript, HTML/CSS) -> https://color-picker-p.netlify.app/
+
+-  🔐 Cryptonic : (Side project de cryptage en Vanilla JavaScript, HTML/CSS) -> http://cryptonicmax.worldsolutions.fr/
+
+-  🥢 Ramen ton Prénom : (Projet de traduction de prénom en Japonais en Vanilla JavaScript, HTML/CSS) -> http://ramentonprenom.worldsolutions.fr/
+(Nouvelle version en React et Node.js en cours)
+
+- 🍀 Le petit recycleur : (Projet de recyclage en React et Node.js en cours)
+
+
 <h3 align="left">Réseaux sociaux:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sylvain-langot-863b2147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sylvain-langot-863b2147/" height="30" width="40" /></a>
