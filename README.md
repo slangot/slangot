@@ -24,7 +24,7 @@
 -  🥢 Ramen ton Prénom : (Projet de traduction de prénom en Japonais en Vanilla JavaScript, HTML/CSS) -> http://ramentonprenom.worldsolutions.fr/
 (Nouvelle version en React et Node.js en cours)
 
-- 🍀 Le petit recycleur : (Projet de recyclage en React et Node.js en cours)
+- 🍀 Le petit recycleur : (Projet de recyclage responsive app mobile en React et Node.js, back en cours de déploiement) -> https://le-petit-recycleur.netlify.app 
 
 
 <h3 align="left">Réseaux sociaux:</h3>
