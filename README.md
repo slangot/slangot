@@ -15,7 +15,7 @@
   📅 Décembre 2023 à aujourd'hui
 
   -> 💻 Réalisation d'un site internet mobile first et d'un backoffice permettant de gérer les actualités, les adhérents et les dons<br />
-  -> Technologies utilisées : React, Node.js
+  -> Technologies utilisées : React, TypeScript, Node.js
 </p><br />
 
 <p>
@@ -35,7 +35,7 @@
 
   -> 💻 Réalisation de web components.<br />
   -> ✅ Méthode Agile, Clean code, Tests unitaires<br />
-  -> Technologies utilisées : LitElement, Vanilla JS, Jest, XML.
+  -> Technologies utilisées : LitElement, TypeScript, Vanilla JS, Jest, XML.
 </p><br />
 
 <h3 align="left">Mes projets en ligne</h3>
