@@ -15,7 +15,7 @@
   📅 Décembre 2023 à aujourd'hui
 
   -> 💻 Réalisation d'un site internet mobile first (charte graphique client) et d'un backoffice permettant de gérer les actualités, les adhérents et les dons<br />
-  -> Technologies utilisées : React, Node.js
+  -> Technologies utilisées : React, Node.js<br />
   -> <a href='tsf.konecton.com'>Version Beta du site</a>
 </p><br />
 
