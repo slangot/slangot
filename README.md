@@ -1,4 +1,4 @@
-<h3 align="center">Développeur Full-Stack Web et Mobile - React, React Native et Node.js</h3>
+<h3 align="center">Développeur Full-Stack Web et Mobile - React, Next.js, TypeScript, React Native, Node.js et Tailwind CSS</h3>
 
 - 🔭 Actuellement à l'écoute d'opportunité.
 
@@ -6,7 +6,7 @@
 
 - 📫 Me contacter : **langot.sylvain.contact@gmail.com**
 
-- 📄 Je suis quelqu'un d'optimiste, de travailleur, de bienveillant, d'impliquer et surtout de motiver.
+- 📄 Je suis quelqu'un d'optimiste, de bienveillant, qui s'adapte facilement, qui aime le challenge et le travail d'équipe, et surtout d'impliquer et de motiver.
 
 
 <h3 align="left">Mon expérience professionnelle </h3>
@@ -14,8 +14,9 @@
 - 👨‍💻 Développeur web Fullstack pour l'association <b>Thérapy Sans Frontières</b> (bénévolat)
   📅 Décembre 2023 à aujourd'hui
 
-  -> 💻 Réalisation d'un site internet mobile first et d'un backoffice permettant de gérer les actualités, les adhérents et les dons<br />
-  -> Technologies utilisées : React, TypeScript, Node.js
+  -> 💻 Réalisation d'un site internet mobile first (charte graphique client) et d'un backoffice permettant de gérer les actualités, les adhérents et les dons<br />
+  -> Technologies utilisées : React, Node.js
+  -> <a href='tsf.konecton.com'>Version Beta du site</a>
 </p><br />
 
 <p>
