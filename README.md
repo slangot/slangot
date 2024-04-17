@@ -41,14 +41,14 @@
 
 <h3 align="left">Mes projets en ligne</h3>
 
+- 🍀 Le petit recycleur : (Projet de recyclage responsive app mobile en React et Node.js, back en cours de déploiement) -> https://le-petit-recycleur.netlify.app
+
+-  🥢 Ramen ton Prénom : (Projet de traduction de prénom en Japonais en Vanilla JavaScript, HTML/CSS) -> http://ramentonprenom.worldsolutions.fr/
+(Nouvelle version en Next.js et Node.js en cours)
+
 -  🎬 Cinéflix : (Second projet de ma formation de la Wild Code School en React, HTML/CSS) -> https://cineflix-wcs-p2.netlify.app/
 
 -  🎨 Color Picker : (Side project de color picker en Vanilla JavaScript, HTML/CSS) -> https://color-picker-p.netlify.app/
-
--  🥢 Ramen ton Prénom : (Projet de traduction de prénom en Japonais en Vanilla JavaScript, HTML/CSS) -> http://ramentonprenom.worldsolutions.fr/
-(Nouvelle version en React et Node.js en cours)
-
-- 🍀 Le petit recycleur : (Projet de recyclage responsive app mobile en React et Node.js, back en cours de déploiement) -> https://le-petit-recycleur.netlify.app 
 
 
 <h3 align="left">Réseaux sociaux:</h3>
