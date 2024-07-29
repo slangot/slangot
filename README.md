@@ -42,6 +42,8 @@
 
 <h3 align="left">Mes projets en ligne</h3>
 
+- 🗼  Tokyo Study Web : (Projet <u>en cours</u> de Web App pour apprendre et s'entraîner au japonais, fait en React, Node.js, Tailwind CSS) -> Version beta : https://tsw.konecton.com/
+
 -  🥢 Ramen ton Prénom : (Projet fun de traduction de prénom en Japonais en Next.js, TypeScript et Tailwind CSS) -> [https://ramen-ton-prenom.vercel.app/](https://ramen-ton-prenom.vercel.app/)
 
 - 🍀 Le petit recycleur : (Projet de recyclage responsive app mobile en React et Node.js, back en cours de déploiement) -> https://le-petit-recycleur.netlify.app
