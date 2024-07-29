@@ -44,7 +44,7 @@
 
 - 🗼  Tokyo Study Web : (Projet <u>en cours</u> de Web App pour apprendre et s'entraîner au japonais, fait en React, Node.js, Tailwind CSS) -> Version Beta du site : https://tsw.konecton.com/
 
--  🔊  Dabicorn : (Projet de Web App collaborative de fan soundboard fait en React). Attention une partie du contenu est de l'humour vulgaire /!\
+-  🔊  Dabicorn : (Projet de Web App collaborative de fan soundboard fait en React). Attention une partie du contenu est de l'humour vulgaire ⚠️
   -> Première version du site (Optimisée pour mobile) : http://boiserie.konecton.com
 
 -  🥢 Ramen ton Prénom : (Projet fun de traduction de prénom en Japonais en Next.js, TypeScript et Tailwind CSS) -> [https://ramen-ton-prenom.vercel.app/](https://ramen-ton-prenom.vercel.app/)
