@@ -16,7 +16,7 @@
 
   -> 💻 Réalisation d'un site internet mobile first (charte graphique client) et d'un backoffice permettant de gérer les actualités, les adhérents et les dons<br />
   -> Technologies utilisées : React, Node.js<br />
-  -> <a href='https://tsf.konecton.com'>Version Beta du site</a>
+  -> <a href='https://tsf.konecton.com' target='_blank'>Version Beta du site</a>
 </p><br />
 
 <p>
@@ -28,7 +28,7 @@
   -> 📓 Gestion de la base de données MySQL.<br />
   -> 💬 Management des développeurs stagiaires et review de code.<br />
   -> Technologies utilisées : React, React native, Symfony, SQL.
-  -> <a href='https://apps.apple.com/fr/app/wecheers/id1616746725?l=en-GB'>App iOS</a> || <a href='https://play.google.com/store/apps/details?id=com.polybris.wecheers&pli=1'>App Android</a>
+  -> <a href='https://apps.apple.com/fr/app/wecheers/id1616746725?l=en-GB' target='_blank'>App iOS</a> || <a href='https://play.google.com/store/apps/details?id=com.polybris.wecheers&pli=1' target='_blank'>App Android</a>
 </p><br />
 
 <p>
@@ -42,7 +42,7 @@
 
 <h3 align="left">Mes projets en ligne</h3>
 
--  🥢 Ramen ton Prénom : (Projet de traduction de prénom en Japonais en Next.js, TypeScript et Tailwind CSS) -> [https://ramen-ton-prenom.vercel.app/](https://ramen-ton-prenom.vercel.app/)
+-  🥢 Ramen ton Prénom : (Projet fun de traduction de prénom en Japonais en Next.js, TypeScript et Tailwind CSS) -> [https://ramen-ton-prenom.vercel.app/](https://ramen-ton-prenom.vercel.app/)
 
 - 🍀 Le petit recycleur : (Projet de recyclage responsive app mobile en React et Node.js, back en cours de déploiement) -> https://le-petit-recycleur.netlify.app
 
