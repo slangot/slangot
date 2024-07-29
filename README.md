@@ -52,7 +52,7 @@
 
 - 🍀 Le petit recycleur : (Projet de recyclage responsive app mobile en React et Node.js, back en cours de déploiement)<br /> -> https://le-petit-recycleur.netlify.app
 
--  🎬 Cinéflix : (Second projet de ma formation de la Wild Code School en React, HTML/CSS)<br /> -> https://cineflix-wcs-p2.netlify.app/
+-  🎬 Cinéflix : (Second projet de ma formation de la Wild Code School en React, HTML/CSS)<br /> -> https://cineflix-wcs-p2.netlify.app/home/
 
 -  🎨 Color Picker : (Side project de color picker en Vanilla JavaScript, HTML/CSS)<br /> -> https://color-picker-p.netlify.app/
 
