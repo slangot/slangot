@@ -16,7 +16,7 @@
 
   -> 💻 Réalisation d'un site internet mobile first (charte graphique client) et d'un backoffice permettant de gérer les actualités, les adhérents et les dons<br />
   -> Technologies utilisées : React, Node.js<br />
-  -> <a href='tsf.konecton.com'>Version Beta du site</a>
+  -> <a href='https://tsf.konecton.com'>Version Beta du site</a>
 </p><br />
 
 <p>
@@ -28,6 +28,7 @@
   -> 📓 Gestion de la base de données MySQL.<br />
   -> 💬 Management des développeurs stagiaires et review de code.<br />
   -> Technologies utilisées : React, React native, Symfony, SQL.
+  -> <a href='https://apps.apple.com/fr/app/wecheers/id1616746725?l=en-GB'>App iOS</a> || <a href='https://play.google.com/store/apps/details?id=com.polybris.wecheers&pli=1'>App Android</a>
 </p><br />
 
 <p>
