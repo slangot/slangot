@@ -46,7 +46,7 @@
 
 -  🔊  Dabicorn : (Projet de Web App collaborative de fan soundboard fait en React).<br />
   ⚠️ Attention une partie du contenu est de l'humour vulgaire ⚠️<br />
-  -> Première version du site (Optimisée pour mobile) : http://boiserie.konecton.com
+  -> Première version du site (Optimisée pour mobile) : https://dabicorn.konecton.com
 
 -  🥢 Ramen ton Prénom : (Projet fun de traduction de prénom en Japonais en Next.js, TypeScript et Tailwind CSS)<br /> -> [https://ramen-ton-prenom.vercel.app/](https://ramen-ton-prenom.vercel.app/)
 
