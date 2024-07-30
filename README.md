@@ -50,7 +50,7 @@
 
 -  🥢 Ramen ton Prénom : (Projet fun de traduction de prénom en Japonais en Next.js, TypeScript et Tailwind CSS)<br /> -> [https://ramen-ton-prenom.vercel.app/](https://ramen-ton-prenom.vercel.app/)
 
-- 🍀 Le petit recycleur : (Projet de recyclage responsive app mobile en React et Node.js, back en cours de déploiement)<br /> -> https://le-petit-recycleur.netlify.app
+- 🍀 Le petit recycleur : (Projet de recyclage responsive app mobile en React, Node.js et utilisation de l'API Rest publique Open Food Facts, back en cours de déploiement)<br /> -> https://le-petit-recycleur.netlify.app
 
 -  🎬 Cinéflix : (Second projet de ma formation de la Wild Code School en React, HTML/CSS)<br /> -> https://cineflix-wcs-p2.netlify.app/home/
 
